@@ -10,17 +10,17 @@ Actualizado el 2026-08-11.
 
 | Archivo | Contenido | Filas |
 |---|---|---|
-| `cemaed_series.csv` | Serie trimestral, formato tidy (una fila por período + indicador).| 336 |
-| `cemaed_series_wide.csv` | Los mismos datos en formato ancho (indicador × trimestre). Más cómodo para leer | 48 |
+| `cemaed_series.csv` | Serie trimestral, formato tidy | 336 |
+| `cemaed_series_wide.csv` | Los mismos datos en formato ancho. Más cómodo para leer | 48 |
 | `cemaed_barrios.csv` | Robos y hurtos de motos y autos por barrio, por trimestre | 225 |
 | `cemaed_vehiculos.csv` | Modelos de vehículo más sustraídos, por trimestre | 118 |
-| `cemaed_911_categorias.csv` | Llamados al 911 desagregados por motivo  | 24 |
+| `cemaed_911_categorias.csv` | Llamados al 911, por motivo  | 24 |
 | `relevamiento_prensa.csv` | **Relevamiento de prensa propio.** Un renglón por hecho documentado | 127 |
-| `relevamiento_ciudad.csv` | **Relevamiento de ciudad.** Urbanismo, infraestructura, ambiente, historia y geografía | 1 |
-| `relevamiento_prensa_links.csv` | Un renglón por artículo. Sirve a los dos relevamientos | 190 |
+| `relevamiento_ciudad.csv` | **Relevamiento de ciudad.** Urbanismo, infraestructura, ambiente, historia, geografía, y datos en general de la ciudad | 1 |
+| `relevamiento_prensa_links.csv` | Un renglón por artículo. | 190 |
 | `relevamiento_prensa_relaciones.csv` | Un renglón por vínculo entre dos registros | 29 |
 | `fuentes_monitoreo.md` | Índices de policiales a revisar para cargar el relevamiento | — |
-| `../paginas_clave/*.png` | Los 7 resúmenes ejecutivos escaneados. Respaldo visual para verificar cualquier número | 7 |
+| `../paginas_clave/*.png` | Los 7 resúmenes ejecutivos del CeMAED escaneados. | 7 |
 
 **Los dos archivos de relevamiento no son estadística y no se mezclan con las series
  del CeMAED.** Registran lo publicado por la prensa y es agregado a mano a la base de datos.
