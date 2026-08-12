@@ -22,32 +22,24 @@ Esta es la versión anonimizada del proyecto. No es el dataset de trabajo; es un
 
 **Nombres propios de víctimas, personas detenidas y familiares que declararon** se
 reemplazaron por su rol y edad cuando estaba disponible ("la víctima", "un detenido de 23
-años"). Un repositorio de GitHub atado a un nombre real es indexado, permanente y
-consultado por reclutadores — el estándar de cuidado es más alto que el de una publicación
-efímera.
+años"). 
 
 **Los menores de edad** perdieron además su edad exacta (pasa a "menor de edad") y
-cualquier ubicación más fina que el barrio: sin escuela, sin calle, sin altura.
+cualquier ubicación más fina que el barrio.
 
 **Las direcciones de vivienda** conservan la calle pero no el número, cuando el hecho fue un
-robo o intento de robo a una casa ocupada. Un domicilio con fecha y altura exactas funciona
-como guía para repetir el golpe o como insumo para una estafa. Los hechos en la vía pública
-sí pueden conservar la esquina, porque no señalan una casa específica.
+robo o intento de robo a una casa ocupada. 
 
 **Los funcionarios públicos, fiscales, comisarios y voceros institucionales** que declararon
-en carácter oficial se mantienen con nombre completo. Hablaron institucionalmente, no como
-particulares, y sacarlos vaciaría el proyecto de la parte que muestra rigor periodístico:
-cruzar declaraciones oficiales, detectar contradicciones entre versiones, contrastar cifras.
+en carácter oficial se mantienen con nombre completo. 
 
 ## Lo que este dataset no garantiza
 
 Las notas periodísticas originales, citadas por medio y fecha en `relevamiento_prensa_links.csv`,
 pueden contener el nombre completo de las mismas personas que acá aparecen generalizadas —
-así las publicó cada medio. Esa es una decisión editorial de cada medio, no de este dataset.
-Generalizar los campos estructurados evita que esta base sea, por sí misma, un atajo
-cómodo hacia esa información — no borra lo que ya es público en otro lado.
+así las publicó cada medio. 
 
-Este es un criterio editorial de anonimización, aplicado con juicio caso por caso. No
+Este es un criterio editorial de anonimización, aplicado caso por caso. No
 constituye una garantía legal de cumplimiento normativo.
 
 ## Método
