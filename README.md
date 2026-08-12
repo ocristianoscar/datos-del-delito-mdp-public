@@ -15,9 +15,8 @@ Esta es la versión anonimizada del proyecto. No es el dataset de trabajo; es un
 - `relevamiento_prensa_relaciones.csv` — vínculos entre hechos (consecuencia, contradicción,
   misma serie, etc.), sin cambios respecto del dataset interno.
 - `cemaed_*.csv` — estadística oficial trimestral del Centro Municipal de Análisis
-  Estratégico del Delito de General Pueyrredón, agregada y sin datos personales. Sin
-  cambios.
-- `FUENTES.md` y `fuentes_monitoreo.md` — metodología del relevamiento. Sin cambios.
+  Estratégico del Delito de General Pueyrredón, agregada y sin datos personales. 
+- `FUENTES.md` y `fuentes_monitoreo.md` — metodología del relevamiento. 
 
 ## Qué se generalizó
 
