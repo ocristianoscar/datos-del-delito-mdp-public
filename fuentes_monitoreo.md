@@ -40,10 +40,8 @@ CeMAED — https://www.mardelplata.gob.ar/Contenido/informes-periodicos
 Publica con aproximadamente un trimestre de retraso. Los PDF desde 2024 están
 alojados en `storage.mardelplata.gov.ar` con URLs que no terminan en `.pdf`.
 
-## Rutina sugerida
+## Como agregar noticias y hechos
 
-Diez minutos por día alcanzan. Reconstruir un mes entero el día 30 es cómo mueren
-estos relevamientos.
 
 1. Recorrer las secciones de policiales de los seis medios principales
 2. Por cada hecho nuevo: un renglón en `relevamiento_prensa.csv`
