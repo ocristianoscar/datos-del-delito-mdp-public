@@ -22,9 +22,8 @@ Actualizado el 2026-08-11.
 | `fuentes_monitoreo.md` | Índices de policiales a revisar para cargar el relevamiento | — |
 | `../paginas_clave/*.png` | Los 7 resúmenes ejecutivos escaneados. Respaldo visual para verificar cualquier número | 7 |
 
-> **Los dos archivos de relevamiento no son estadística y no se mezclan con las series
-> del CeMAED.** Registran lo publicado por la prensa, y agregado a mano a la base de datos, no la totalidad de los hechos.
-> Sirven para modalidades, casos, actores y cobertura; nunca para volumen ni tasas.
+**Los dos archivos de relevamiento no son estadística y no se mezclan con las series
+ del CeMAED.** Registran lo publicado por la prensa y es agregado a mano a la base de datos.
 
 **Criterios del relevamiento.** El campo `partido` separa General Pueyrredón del resto
 de la región: los medios marplatenses cubren partidos vecinos, y sin ese campo cualquier
