@@ -1,0 +1,25 @@
+periodo;categoria;llamados
+2025-Q4;Robos;8466
+2026-Q1;Robos;8668
+2025-Q4;Violencia;13434
+2026-Q1;Violencia;14418
+2025-Q4;Alarmas;24455
+2026-Q1;Alarmas;22439
+2025-Q4;Otros;4769
+2026-Q1;Otros;6423
+2025-Q4;Sospechosos;5264
+2026-Q1;Sospechosos;6254
+2025-Q4;Contraventores;346
+2026-Q1;Contraventores;355
+2025-Q4;Vandalismo;693
+2026-Q1;Vandalismo;766
+2025-Q4;Hallazgo;1759
+2026-Q1;Hallazgo;2204
+2025-Q4;Disparos;788
+2026-Q1;Disparos;751
+2025-Q4;Pedido generico de auxilio;4057
+2026-Q1;Pedido generico de auxilio;4220
+2025-Q4;Emergencia de salud;541
+2026-Q1;Emergencia de salud;576
+2025-Q4;Transito;1996
+2026-Q1;Transito;2072

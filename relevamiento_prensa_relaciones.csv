@@ -1,0 +1,30 @@
+id_origen;tipo;id_destino;nota
+H03;misma_serie;H02;Tres homicidios en menos de 24 horas, cubiertos como un episodio
+H06;misma_serie;H02;Tres homicidios en menos de 24 horas, cubiertos como un episodio
+R15;misma_serie;H02;Cronica de La Capital sobre los tres homicidios
+R13;consecuencia_de;H02;CAFAMAR exige un plan tras el crimen del ferretero
+R14;consecuencia_de;H02;Los ferreteros exigen respuestas tras el asesinato
+R17;consecuencia_de;H02;Convocan a marcha tras el crimen del ferretero
+R16;consecuencia_de;H06;Convocan a marcha tras el femicidio de Antonich
+R18;consecuencia_de;H06;Repudio al accionar policial y judicial por el femicidio
+R19;consecuencia_de;H06;Las CTA reclaman justicia por Antonich
+R20;consecuencia_de;H06;Habla la madre de Mailen
+R21;consecuencia_de;H06;Despedida de familiares y amigos
+R24;consecuencia_de;H02;Se marchaba por Ricardo Ruiz
+R24;consecuencia_de;H03;Se marchaba por Alberto Rodriguez
+R24;consecuencia_de;H06;Se marchaba por Juana Mailen Antonich
+X10;consecuencia_de;R24;Titulares: «Tras la protesta por la inseguridad, relevaron al jefe»
+X26;consecuencia_de;R24;Titular: «Tras los reclamos por seguridad». Atribucion del medio
+X26;actualiza;X20;De «entre 150 y 200 federales» a 170 efectivos ya operativos
+X17;contradice;X10;Ratificacion de Fontana contra el relevo publicado el 5
+X19;contradice;X10;«El comisario mayor Cristian Fontana sigue al frente»
+X21;contradice;X10;La nota vuelve a darlo por ratificado
+X21;responde_a;X11;El municipio contesta la acusacion por los 3.080 millones
+R25;consecuencia_de;M13;Lo motivo el asalto de seis delincuentes en Belgrano y Neuquen
+O08;misma_serie;O07;Cuatro heridos entre las 21:15 del viernes y las 5 del sabado
+O09;misma_serie;O07;Cuatro heridos entre las 21:15 del viernes y las 5 del sabado
+M15;misma_serie;O07;Cuatro heridos entre las 21:15 del viernes y las 5 del sabado
+C09;misma_serie;C08;"La fiscalia vinculo ambos al mismo detenido; se cuenta en C08"
+C08;posible_vinculo;C07;Coincide el tipo de mercaderia, pero la fiscalia no afirmo vinculo
+C12;mismo_objetivo;C11;El mismo almacen de Libertad y Espana, robado dos veces en 15 dias
+D07;posible_duplicado;M02;"Mismo barrio; distinto numero de detenidos y tipo de arma"

@@ -1,0 +1,355 @@
+periodo;delito;alcance;barrio;valor
+2025-Q2;autos;completo;AREA CENTRO;24
+2025-Q2;autos;completo;RIVADAVIA BERNARDINO;21
+2025-Q2;autos;completo;SAN JOSE;19
+2025-Q2;autos;completo;PARQUE LURO;19
+2025-Q2;autos;completo;PUNTA MOGOTES;17
+2025-Q2;autos;completo;LA PERLA;16
+2025-Q2;autos;completo;PARQUE PALERMO;15
+2025-Q2;autos;completo;SAN CARLOS;14
+2025-Q2;autos;completo;DON BOSCO;13
+2025-Q2;autos;completo;DE LAS HERASJUAN GREGORIO;11
+2025-Q2;autos;completo;VILLA PRIMERA;11
+2025-Q2;autos;completo;PERALTA RAMOS OESTE;10
+2025-Q2;autos;completo;PLAZA PERALTA RAMOS;9
+2025-Q2;autos;completo;COLINAS DE PERALTA RAMOS;9
+2025-Q2;autos;completo;MALVINAS ARGENTINAS;8
+2025-Q2;autos;completo;EL PROGRESO;8
+2025-Q2;autos;completo;LOS PINARES;8
+2025-Q2;autos;completo;PRIMERA JUNTA;8
+2025-Q2;autos;completo;GENERAL BELGRANO;7
+2025-Q2;autos;completo;SAN CAYETANO;7
+2025-Q2;autos;completo;NUEVE DE JULIO;7
+2025-Q2;autos;completo;SAN JUAN;7
+2025-Q2;autos;completo;LOS ACANTILADOS;6
+2025-Q2;autos;completo;DEL PUERTO;6
+2025-Q2;autos;completo;LAS AVENIDAS;6
+2025-Q2;autos;completo;SARMIENTO DOMINGO FAUSTINO;6
+2025-Q2;autos;completo;LIBERTAD;6
+2025-Q4;autos;completo;SAN JOSE;36
+2025-Q4;autos;completo;AREA CENTRO;36
+2025-Q4;autos;completo;VILLA PRIMERA;29
+2025-Q4;autos;completo;DON BOSCO;21
+2025-Q4;autos;completo;BELISARIO ROLDAN;18
+2025-Q4;autos;completo;BERNARDINO RIVADAVIA;18
+2025-Q4;autos;completo;PERALTA RAMOS OESTE;18
+2025-Q4;autos;completo;LIBERTAD;18
+2025-Q4;autos;completo;PLAZA PERALTA RAMOS;15
+2025-Q4;autos;completo;LOS PINARES;14
+2025-Q4;autos;completo;PARQUE LURO;13
+2025-Q4;autos;completo;COLINAS DE PERALTA RAMOS;12
+2025-Q4;autos;completo;CORONEL DORREGO;11
+2025-Q4;autos;completo;PUNTA MOGOTES;11
+2025-Q4;autos;completo;LA PERLA;11
+2025-Q4;autos;completo;DEL PUERTO;10
+2025-Q4;autos;completo;LOPEZ DE GOMARA;10
+2025-Q4;autos;completo;JOSE MANUEL ESTRADA;10
+2025-Q4;autos;completo;LAS AVENIDAS;9
+2025-Q4;autos;completo;LOS ANDES;8
+2025-Q4;autos;completo;ESTACION NORTE;8
+2025-Q4;autos;completo;NUEVA POMPEYA;8
+2025-Q4;autos;completo;PRIMERA JUNTA;8
+2026-Q1;autos;completo;AREA CENTRO;43
+2026-Q1;autos;completo;BERNARDINO RIVADAVIA;23
+2026-Q1;autos;completo;VILLA PRIMERA;21
+2026-Q1;autos;completo;PUNTA MOGOTES;19
+2026-Q1;autos;completo;REGIONAL;19
+2026-Q1;autos;completo;LA PERLA;19
+2026-Q1;autos;completo;LAS AMERICAS;18
+2026-Q1;autos;completo;LIBERTAD;18
+2026-Q1;autos;completo;SAN JOSE;15
+2026-Q1;autos;completo;FLORENTINO AMEGHINO;15
+2026-Q1;autos;completo;DON BOSCO;15
+2026-Q1;autos;completo;LOMAS DE STELLA MARIS;14
+2026-Q1;autos;completo;PLAZA PERALTA RAMOS;13
+2026-Q1;autos;completo;PERALTA RAMOS OESTE;13
+2026-Q1;autos;completo;GENERAL BELGRANO;12
+2026-Q1;autos;completo;NUEVE DE JULIO;12
+2026-Q1;autos;completo;ZACAGNINI;12
+2026-Q1;autos;completo;PARQUE LURO;11
+2026-Q1;autos;completo;LOS PINARES;11
+2026-Q1;autos;completo;JURAMENTO;10
+2026-Q1;autos;completo;DON EMILIO;9
+2026-Q1;autos;completo;CORONEL DORREGO;9
+2026-Q1;autos;completo;JORGE NEWBERY;9
+2026-Q1;autos;completo;NUEVA POMPEYA;9
+2025-Q1;comercios;top;AREA CENTRO;29
+2025-Q1;comercios;top;LOS PINARES;12
+2025-Q1;comercios;top;PARQUE LURO;8
+2025-Q1;comercios;top;SAN CARLOS;7
+2025-Q1;comercios;top;LAS LILAS;6
+2025-Q1;comercios;top;DON BOSCO;6
+2025-Q2;comercios;top;AREA CENTRO;51
+2025-Q2;comercios;top;LOS PINARES;12
+2025-Q2;comercios;top;DEL PUERTO;11
+2025-Q2;comercios;top;PARQUE LURO;11
+2025-Q2;comercios;top;ESTACION CAMET;11
+2025-Q2;comercios;top;DON BOSCO;9
+2025-Q2;comercios;top;CONSTITUCION;8
+2025-Q2;comercios;top;PLAYA GRANDE;8
+2025-Q3;comercios;top;AREA CENTRO;53
+2025-Q3;comercios;top;PARQUE LURO;18
+2025-Q3;comercios;top;ESTACION TERMINAL;15
+2025-Q3;comercios;top;LA PERLA;10
+2025-Q4;comercios;top;AREA CENTRO;29
+2025-Q4;comercios;top;ESTACION TERMINAL;14
+2025-Q4;comercios;top;BERNARDINO RIVADAVIA;12
+2025-Q4;comercios;top;PERALTA RAMOS OESTE;9
+2026-Q1;comercios;top;AREA CENTRO;17
+2026-Q1;comercios;top;ESTACION TERMINAL;3
+2026-Q1;comercios;top;CORONEL DORREGO;2
+2026-Q1;comercios;top;PLAZA PERALTA RAMOS;2
+2024-Q3;motos;completo;AREA CENTRO;95
+2024-Q3;motos;completo;RIVADAVIA BERNARDINO;45
+2024-Q3;motos;completo;DON BOSCO;28
+2024-Q3;motos;completo;SAN JOSE;24
+2024-Q3;motos;completo;VILLA PRIMERA;23
+2024-Q3;motos;completo;PLAZA PERALTA RAMOS;22
+2024-Q3;motos;completo;LA PERLA;22
+2024-Q3;motos;completo;NEWBERY JORGE;15
+2024-Q3;motos;completo;PUNTA MOGOTES;15
+2024-Q3;motos;completo;ESTACION TERMINAL;15
+2024-Q3;motos;completo;SAN CARLOS;14
+2024-Q3;motos;completo;PERALTA RAMOS OESTE;14
+2024-Q3;motos;completo;DE LA PLAZA FORTUNATO;14
+2024-Q3;motos;completo;FARO NORTE;13
+2024-Q3;motos;completo;SAN JUAN;13
+2024-Q3;motos;completo;GENERAL SAN MARTIN;12
+2024-Q3;motos;completo;NUEVA POMPEYA;12
+2024-Q3;motos;completo;COLINAS DE PERALTA RAMOS;10
+2024-Q3;motos;completo;PRIMERA JUNTA;10
+2024-Q3;motos;completo;CERRITO SUR;9
+2024-Q3;motos;completo;LOS ACANTILADOS;9
+2024-Q3;motos;completo;SAN CAYETANO;9
+2024-Q3;motos;completo;NUEVE DE JULIO;9
+2024-Q3;motos;completo;LIBERTAD;9
+2024-Q3;motos;completo;FRAY LUIS BELTRAN;9
+2024-Q4;motos;completo;AREA CENTRO;69
+2024-Q4;motos;completo;SAN JOSE;35
+2024-Q4;motos;completo;RIVADAVIA BERNARDINO;30
+2024-Q4;motos;completo;VILLA PRIMERA;29
+2024-Q4;motos;completo;PLAZA PERALTA RAMOS;28
+2024-Q4;motos;completo;PUNTA MOGOTES;28
+2024-Q4;motos;completo;PARQUE LURO;27
+2024-Q4;motos;completo;COLINAS DE PERALTA RAMOS;26
+2024-Q4;motos;completo;DON BOSCO;26
+2024-Q4;motos;completo;LA PERLA;24
+2024-Q4;motos;completo;NUEVE DE JULIO;20
+2024-Q4;motos;completo;PERALTA RAMOS OESTE;19
+2024-Q4;motos;completo;SAN CARLOS;18
+2024-Q4;motos;completo;ALFAR;17
+2024-Q4;motos;completo;FRAY LUIS BELTRAN;15
+2024-Q4;motos;completo;NUEVA POMPEYA;14
+2024-Q4;motos;completo;FARO NORTE;13
+2024-Q4;motos;completo;VILLA LOURDES;13
+2024-Q4;motos;completo;MALVINAS ARGENTINAS;12
+2024-Q4;motos;completo;DEL PUERTO;12
+2024-Q4;motos;completo;LAS AVENIDAS;11
+2024-Q4;motos;completo;CONSTITUCION;11
+2024-Q4;motos;completo;ESTRADA JOSE MANUEL;11
+2024-Q4;motos;completo;PRIMERA JUNTA;11
+2024-Q4;motos;completo;ESTACION TERMINAL;11
+2024-Q4;motos;completo;SANCHEZ FLORENCIO;10
+2024-Q4;motos;completo;NEWBERY JORGE;10
+2024-Q4;motos;completo;LOS ACANTILADOS;10
+2024-Q4;motos;completo;LAS LILAS;10
+2024-Q4;motos;completo;ESTACION NORTE;10
+2024-Q4;motos;completo;DE LA PLAZA FORTUNATO;10
+2024-Q4;motos;completo;SAN JUAN;10
+2025-Q1;motos;completo;AREA CENTRO;85
+2025-Q1;motos;completo;LA PERLA;33
+2025-Q1;motos;completo;PLAZA PERALTA RAMOS;28
+2025-Q1;motos;completo;SAN JOSE;28
+2025-Q1;motos;completo;DON BOSCO;27
+2025-Q1;motos;completo;RIVADAVIA BERNARDINO;23
+2025-Q1;motos;completo;VILLA PRIMERA;20
+2025-Q1;motos;completo;PERALTA RAMOS OESTE;19
+2025-Q1;motos;completo;PARQUE LURO;18
+2025-Q1;motos;completo;CONSTITUCION;18
+2025-Q1;motos;completo;PUNTA MOGOTES;16
+2025-Q1;motos;completo;COLINAS DE PERALTA RAMOS;16
+2025-Q1;motos;completo;LAS AVENIDAS;15
+2025-Q1;motos;completo;NUEVA POMPEYA;15
+2025-Q1;motos;completo;LAS AMERICAS;14
+2025-Q1;motos;completo;ESTACION TERMINAL;14
+2025-Q1;motos;completo;SAN CARLOS;13
+2025-Q1;motos;completo;EL PROGRESO;13
+2025-Q1;motos;completo;DEL PUERTO;12
+2025-Q1;motos;completo;ESTRADA JOSE MANUEL;12
+2025-Q1;motos;completo;PRIMERA JUNTA;12
+2025-Q1;motos;completo;SAN CAYETANO;11
+2025-Q1;motos;completo;ZACAGNINI JOSE MANUEL;11
+2025-Q1;motos;completo;NUEVE DE JULIO;10
+2025-Q1;motos;completo;LIBERTAD;10
+2025-Q2;motos;completo;AREA CENTRO;62
+2025-Q2;motos;completo;PERALTA RAMOS OESTE;31
+2025-Q2;motos;completo;SAN JOSE;31
+2025-Q2;motos;completo;BERNARDINO RIVADAVIA;29
+2025-Q2;motos;completo;DON BOSCO;28
+2025-Q2;motos;completo;LAS AVENIDAS;26
+2025-Q2;motos;completo;NUEVE DE JULIO;18
+2025-Q2;motos;completo;LA PERLA;18
+2025-Q2;motos;completo;PLAZA PERALTA RAMOS;16
+2025-Q2;motos;completo;VILLA PRIMERA;16
+2025-Q2;motos;completo;JOSE MANUEL ESTRADA;14
+2025-Q2;motos;completo;FARO NORTE;13
+2025-Q2;motos;completo;EL PROGRESO;13
+2025-Q2;motos;completo;ESTACION TERMINAL;13
+2025-Q2;motos;completo;GENERAL ROCA;13
+2025-Q2;motos;completo;MALVINAS ARGENTINAS;12
+2025-Q2;motos;completo;GENERAL SAN MARTIN;12
+2025-Q2;motos;completo;PUNTA MOGOTES;12
+2025-Q2;motos;completo;SAN CAYETANO;12
+2025-Q2;motos;completo;VILLA LOURDES;11
+2025-Q2;motos;completo;LIBERTAD;11
+2025-Q2;motos;completo;FORTUNATO DE LA PLAZA;11
+2025-Q2;motos;completo;PARQUE LURO;10
+2025-Q2;motos;completo;GENERAL PUEYRREDON;9
+2025-Q2;motos;completo;LAS LILAS;9
+2025-Q2;motos;completo;LOS PINARES;9
+2025-Q2;motos;completo;CONSTITUCION;9
+2025-Q2;motos;completo;SAN CARLOS;8
+2025-Q2;motos;completo;EL MARTILLO;8
+2025-Q2;motos;completo;COLINAS DE PERALTA RAMOS;8
+2025-Q2;motos;completo;LOS ANDES;8
+2025-Q2;motos;completo;DOMINGO F. SARMIENTO;8
+2025-Q3;motos;completo;AREA CENTRO;43
+2025-Q3;motos;completo;PERALTA RAMOS OESTE;35
+2025-Q3;motos;completo;FORTUNATO DE LA PLAZA;25
+2025-Q3;motos;completo;BERNARDINO RIVADAVIA;22
+2025-Q3;motos;completo;VILLA PRIMERA;20
+2025-Q3;motos;completo;MALVINAS ARGENTINAS;19
+2025-Q3;motos;completo;EL PROGRESO;19
+2025-Q3;motos;completo;LA PERLA;18
+2025-Q3;motos;completo;PLAZA PERALTA RAMOS;16
+2025-Q3;motos;completo;FARO NORTE;15
+2025-Q3;motos;completo;SAN JOSE;15
+2025-Q3;motos;completo;PUNTA MOGOTES;14
+2025-Q3;motos;completo;COLINAS DE PERALTA RAMOS;13
+2025-Q3;motos;completo;LAS AVENIDAS;12
+2025-Q3;motos;completo;LAS LILAS;12
+2025-Q3;motos;completo;CONSTITUCION;12
+2025-Q3;motos;completo;DON BOSCO;11
+2025-Q3;motos;completo;ALFAR;10
+2025-Q3;motos;completo;CORONEL DORREGO;10
+2025-Q3;motos;completo;SAN CAYETANO;10
+2025-Q3;motos;completo;DOMINGO F. SARMIENTO;10
+2025-Q3;motos;completo;LIBERTAD;10
+2025-Q3;motos;completo;JORGE NEWBERY;9
+2025-Q3;motos;completo;SAN CARLOS;9
+2025-Q3;motos;completo;GENERAL SAN MARTIN;9
+2025-Q3;motos;completo;NUEVE DE JULIO;9
+2025-Q3;motos;completo;PARQUE LURO;9
+2025-Q3;motos;completo;FLORENTINO AMEGHINO;9
+2025-Q3;motos;completo;JOSE MANUEL ESTRADA;9
+2025-Q4;motos;completo;AREA CENTRO;52
+2025-Q4;motos;completo;PERALTA RAMOS OESTE;28
+2025-Q4;motos;completo;SAN JOSE;28
+2025-Q4;motos;completo;LIBERTAD;27
+2025-Q4;motos;completo;DON BOSCO;24
+2025-Q4;motos;completo;MALVINAS ARGENTINAS;23
+2025-Q4;motos;completo;VILLA PRIMERA;23
+2025-Q4;motos;completo;RIVADAVIA BERNARDINO;20
+2025-Q4;motos;completo;LA PERLA;20
+2025-Q4;motos;completo;CORONEL DORREGO;18
+2025-Q4;motos;completo;NUEVE DE JULIO;16
+2025-Q4;motos;completo;AMEGHINO FLORENTINO;16
+2025-Q4;motos;completo;PUNTA MOGOTES;15
+2025-Q4;motos;completo;DE LA PLAZA FORTUNATO;14
+2025-Q4;motos;completo;SAN CAYETANO;13
+2025-Q4;motos;completo;CONSTITUCION;13
+2025-Q4;motos;completo;PARQUE LURO;12
+2025-Q4;motos;completo;ZACAGNINI JOSE MANUEL;12
+2025-Q4;motos;completo;FARO NORTE;11
+2025-Q4;motos;completo;LAS AVENIDAS;11
+2025-Q4;motos;completo;LAS LILAS;11
+2025-Q4;motos;completo;LOS PINARES;11
+2025-Q4;motos;completo;LOPEZ DE GOMARA;11
+2025-Q4;motos;completo;LAS AMERICAS;10
+2025-Q4;motos;completo;NEWBERY JORGE;9
+2025-Q4;motos;completo;PLAZA PERALTA RAMOS;9
+2025-Q4;motos;completo;GENERAL PUEYRREDON;9
+2025-Q4;motos;completo;DEL PUERTO;9
+2026-Q1;motos;completo;AREA CENTRO;62
+2026-Q1;motos;completo;LIBERTAD;34
+2026-Q1;motos;completo;BERNARDINO RIVADAVIA;26
+2026-Q1;motos;completo;MALVINAS ARGENTINAS;22
+2026-Q1;motos;completo;VILLA PRIMERA;21
+2026-Q1;motos;completo;NUEVE DE JULIO;17
+2026-Q1;motos;completo;DON BOSCO;16
+2026-Q1;motos;completo;CORONEL DORREGO;15
+2026-Q1;motos;completo;PERALTA RAMOS OESTE;15
+2026-Q1;motos;completo;FLORENTINO AMEGHINO;15
+2026-Q1;motos;completo;PUNTA MOGOTES;14
+2026-Q1;motos;completo;SAN JOSE;14
+2026-Q1;motos;completo;JORGE NEWBERY;13
+2026-Q1;motos;completo;LA PERLA;13
+2026-Q1;motos;completo;ALFAR;11
+2026-Q1;motos;completo;FARO NORTE;11
+2026-Q1;motos;completo;PLAZA PERALTA RAMOS;11
+2026-Q1;motos;completo;LAS AVENIDAS;11
+2026-Q1;motos;completo;SAN CAYETANO;11
+2026-Q1;motos;completo;LOS PINARES;10
+2026-Q1;motos;completo;CONSTITUCION;10
+2026-Q1;motos;completo;BELISARIO ROLDAN;9
+2026-Q1;motos;completo;DE LAS HERAS;9
+2026-Q1;motos;completo;LAS LILAS;9
+2026-Q1;motos;completo;LOS ANDES;9
+2026-Q1;motos;completo;BOSQUE PERALTA RAMOS;9
+2026-Q1;motos;completo;FORTUNATO DE LA PLAZA;9
+2025-Q1;via_publica;top;AREA CENTRO;155
+2025-Q1;via_publica;top;SAN JOSE;40
+2025-Q1;via_publica;top;DON BOSCO;33
+2025-Q1;via_publica;top;LA PERLA;28
+2025-Q1;via_publica;top;LOMAS DE STELLA MARIS;28
+2025-Q1;via_publica;top;ESTACION TERMINAL;26
+2025-Q2;via_publica;top;AREA CENTRO;108
+2025-Q2;via_publica;top;SAN JOSE;36
+2025-Q2;via_publica;top;DON BOSCO;29
+2025-Q2;via_publica;top;LA PERLA;27
+2025-Q2;via_publica;top;PLAZA PERALTA RAMOS;23
+2025-Q2;via_publica;top;PARQUE LURO;23
+2025-Q2;via_publica;top;LOS PINARES;23
+2025-Q2;via_publica;top;CONSTITUCION;23
+2025-Q3;via_publica;top;AREA CENTRO;118
+2025-Q3;via_publica;top;SAN JOSE;46
+2025-Q3;via_publica;top;PLAZA PERALTA RAMOS;33
+2025-Q3;via_publica;top;LOMAS DE STELLA MARIS;31
+2025-Q3;via_publica;top;PARQUE LURO;29
+2025-Q4;via_publica;top;AREA CENTRO;165
+2025-Q4;via_publica;top;SAN JOSE;54
+2025-Q4;via_publica;top;LOMAS DE STELLA MARIS;47
+2025-Q4;via_publica;top;PARQUE LURO;39
+2026-Q1;via_publica;top;AREA CENTRO;248
+2026-Q1;via_publica;top;LOMAS DE STELLA MARIS;50
+2026-Q1;via_publica;top;LA PERLA;44
+2026-Q1;via_publica;top;SAN JOSE;39
+2026-Q1;via_publica;top;PUNTA MOGOTES;33
+2025-Q1;viviendas;top;BOSQUE PERALTA RAMOS;17
+2025-Q1;viviendas;top;PUNTA MOGOTES;16
+2025-Q1;viviendas;top;ALFAR;14
+2025-Q1;viviendas;top;LOS ACANTILADOS;14
+2025-Q2;viviendas;top;PUNTA MOGOTES;14
+2025-Q2;viviendas;top;COLINAS DE PERALTA RAMOS;14
+2025-Q2;viviendas;top;LOS PINARES;14
+2025-Q2;viviendas;top;PARQUE LURO;12
+2025-Q2;viviendas;top;BOSQUE PERALTA RAMOS;11
+2025-Q2;viviendas;top;AREA CENTRO;11
+2025-Q2;viviendas;top;BERNARDINO RIVADAVIA;9
+2025-Q3;viviendas;top;BOSQUE PERALTA RAMOS;23
+2025-Q3;viviendas;top;PUNTA MOGOTES;18
+2025-Q3;viviendas;top;LOS ACANTILADOS;13
+2025-Q3;viviendas;top;SAN JOSE;10
+2025-Q3;viviendas;top;DON BOSCO;10
+2025-Q4;viviendas;top;PARQUE LURO;15
+2025-Q4;viviendas;top;BOSQUE PERALTA RAMOS;15
+2025-Q4;viviendas;top;BERNARDINO RIVADAVIA;13
+2025-Q4;viviendas;top;SAN CARLOS;13
+2025-Q4;viviendas;top;VILLA PRIMERA;13
+2025-Q4;viviendas;top;AREA CENTRO;13
+2026-Q1;viviendas;top;FRAY LUIS BELTRAN;16
+2026-Q1;viviendas;top;SAN JOSE;14
+2026-Q1;viviendas;top;AREA CENTRO;14
+2026-Q1;viviendas;top;FARO NORTE;12
+2026-Q1;viviendas;top;PARQUE LURO;12
+2026-Q1;viviendas;top;BOSQUE PERALTA RAMOS;11

@@ -1,0 +1,28 @@
+periodo;delito;sexo;rango_edad;victimas
+2026-Q1;robo_hurto;total;Menor de 18;28
+2026-Q1;robo_hurto;total;18-25;239
+2026-Q1;robo_hurto;total;26-35;320
+2026-Q1;robo_hurto;total;36-45;346
+2026-Q1;robo_hurto;total;46-55;347
+2026-Q1;robo_hurto;total;56-65;229
+2026-Q1;robo_hurto;total;66-75;174
+2026-Q1;robo_hurto;total;Mas de 75;92
+2026-Q1;robo_hurto;total;Sin datos;61
+2026-Q1;violencia_familiar;femenino;Menor de 18;51
+2026-Q1;violencia_familiar;femenino;18-25;118
+2026-Q1;violencia_familiar;femenino;26-35;293
+2026-Q1;violencia_familiar;femenino;36-45;251
+2026-Q1;violencia_familiar;femenino;46-55;166
+2026-Q1;violencia_familiar;femenino;56-65;104
+2026-Q1;violencia_familiar;femenino;66-75;51
+2026-Q1;violencia_familiar;femenino;Mas de 75;29
+2026-Q1;violencia_familiar;femenino;Sin datos;16
+2026-Q1;violencia_familiar;masculino;Menor de 18;43
+2026-Q1;violencia_familiar;masculino;18-25;32
+2026-Q1;violencia_familiar;masculino;26-35;98
+2026-Q1;violencia_familiar;masculino;36-45;88
+2026-Q1;violencia_familiar;masculino;46-55;61
+2026-Q1;violencia_familiar;masculino;56-65;36
+2026-Q1;violencia_familiar;masculino;66-75;25
+2026-Q1;violencia_familiar;masculino;Mas de 75;13
+2026-Q1;violencia_familiar;masculino;Sin datos;3
