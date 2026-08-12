@@ -48,3 +48,10 @@ constituye una garantía legal de cumplimiento normativo.
 Ver `FUENTES.md` para la metodología completa del relevamiento: criterios de carga,
 verificación cruzada de fechas y cifras contra el CeMAED, y las discrepancias detectadas
 entre distintas coberturas de prensa.
+
+## Licencia
+
+Este repositorio se publica bajo licencia CC BY 4.0. Las estadísticas oficiales
+provienen del CeMAED, Municipalidad de General Pueyrredón, y deben citarse como tal.
+La estructuración, el modelo de datos, el diccionario y el relevamiento de prensa son
+trabajo original del autor.
