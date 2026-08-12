@@ -19,7 +19,7 @@ Esta es la versión anonimizada del proyecto. No es el dataset de trabajo; es un
   cambios.
 - `FUENTES.md` y `fuentes_monitoreo.md` — metodología del relevamiento. Sin cambios.
 
-## Qué se generalizó, y por qué
+## Qué se generalizó
 
 **Nombres propios de víctimas, personas detenidas y familiares que declararon** se
 reemplazaron por su rol y edad cuando estaba disponible ("la víctima", "un detenido de 23
