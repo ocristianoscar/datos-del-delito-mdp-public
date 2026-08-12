@@ -1,4 +1,4 @@
-# Dataset CeMAED — General Pueyrredón
+8# Dataset CeMAED — General Pueyrredón
 
 Índice de archivos y procedencia.
 
@@ -22,7 +22,7 @@ Actualizado el 2026-08-11.
 | `fuentes_monitoreo.md` | Índices de policiales a revisar para cargar el relevamiento | — |
 | `../paginas_clave/*.png` | Los 7 resúmenes ejecutivos del CeMAED escaneados. | 7 |
 
-**Los dos archivos de relevamiento no son estadística y no se mezclan con las series
+**Los archivos de relevamiento no son estadística y no se mezclan con las series
  del CeMAED.** Registran lo publicado por la prensa y es agregado a mano a la base de datos.
 
 **Criterios del relevamiento.** El campo `partido` separa General Pueyrredón del resto
