@@ -154,14 +154,10 @@ Registradas como control de calidad, sin interpretación.
    año con **34 muertes**. La tabla mensual del informe 2026-Q1 muestra para 2025 un
    total de **36**, con 12 en el cuarto trimestre en lugar de los 8 hechos / 10 víctimas
    informados en su momento. El CSV conserva lo publicado en cada informe; para la serie
-   larga hay que usar la tabla del informe más reciente. Serie anual según el informe
-   2026-Q1: 2013=89, 2014=77, 2015=73, 2016=40, 2017=35, 2018=45, 2019=46, 2020=32,
-   2021=41, 2022=32, 2023=43, 2024=40, 2025=36.
+   larga hay que usar la tabla del informe más reciente. 
 
 8. **"Récord de robo de autos desde 2015".** El primer trimestre de 2015 registró **691**
-   automotores sustraídos, por encima de los 655 de 2026-Q1. La serie de primeros
-   trimestres es: 2015=691, 2016=347, 2017=299, 2018=248, 2019=323, 2020=264, 2021=261,
-   2022=202, 2023=265, 2024=282, 2025=567, 2026=655.
+   automotores sustraídos, por encima de los 655 de 2026-Q1. 
 
 
 ## Para agregar el próximo trimestre
