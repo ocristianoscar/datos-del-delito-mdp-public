@@ -1,8 +1,6 @@
 # Datos del delito en Mar del Plata — versión pública
 
-Esta es la versión anonimizada del proyecto, preparada para su publicación en un
-repositorio ligado a un nombre real. No es el dataset de trabajo; es una copia generalizada
-a partir de él.
+Esta es la versión anonimizada del proyecto. No es el dataset de trabajo; es una copia generalizada a partir de él.
 
 ## Qué contiene
 
